@@ -56,7 +56,7 @@ hoge
 これは __ボールド__ です
 
 
-![alt](https://ja.wikipedia.org/wiki/Java#/media/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Duke3D.png)
+![alt](https://upload.wikimedia.org/wikipedia/commons/4/45/Duke3D.png)
 
 
 * Java（ジャバ、ジャヴァ）は、汎用プログラミング言語とソフトウェアプラットフォームの双方を指している総称ブランドである[6]。オラクルおよびその関連会社の登録商標である。1996年にサン・マイクロシステムズによって市場リリースされ、2010年に同社がオラクルに吸収合併された事によりJavaの版権もそちらに移行した。

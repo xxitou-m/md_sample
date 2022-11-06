@@ -1,5 +1,6 @@
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
 #remote_theme: pages-themes/architect@v0.2.0
+theme: jekyll-theme-architect
 #title: test Octocat's homepage
 #description: test Bookmark this to keep an eye on my project updates!
 

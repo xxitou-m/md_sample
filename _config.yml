@@ -1,5 +1,5 @@
 remote_theme: pages-themes/architect@v0.2.0
-title: test Octocat's homepage
-description: test Bookmark this to keep an eye on my project updates!
+#title: test Octocat's homepage
+#description: test Bookmark this to keep an eye on my project updates!
 
 markdown: GFM

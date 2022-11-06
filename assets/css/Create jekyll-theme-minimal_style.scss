@@ -1,0 +1,22 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji";
+  font-size: 16px;
+  color: black;
+
+}
+
+section {
+  width: 70%;
+  float: left;
+}
+
+#sidebar {
+  width: 30%;
+  float: right;
+  
+}

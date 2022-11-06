@@ -2,5 +2,4 @@ theme: jekyll-theme-minimal
 title: test Octocat's homepage
 description: test Bookmark this to keep an eye on my project updates!
 
-layout: page
-permalink: /URL-PATH
+markdown: GFM

@@ -1,2 +1,2 @@
-* [home](home.md)
-  * [file1](file1.md)
+* [home](/source/home.md)
+  * [file1](/source/file1.md)
